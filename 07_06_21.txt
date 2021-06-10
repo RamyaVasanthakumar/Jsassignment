@@ -1,0 +1,33 @@
+Scrpting language:
+These are interpretor based(line by line execution).
+It depend on other platforms and need to be hosted(eg:Javascript is used inside html and is interpreted by browsers)
+speed will be reduced because of line by line execution.
+It is widely used to create a website/automation.
+eg:Javascript,Python,Ruby
+
+Programming Language:
+These are compiler based(entire program can be executed at last)
+Human readble code -> compile->create .exe files(machine readable format).
+It will run idependently
+Speed will be high.
+These are used to develop applications and write code that can enhance and control application behaviour.
+eg:c,C++,Java
+
+ 
+Javascript:
+Javascript is commonly used for creating webpage.
+It will execute from top to bottom.
+It is used on both client side and server side.
+Js can be added in three ways: internal,external & inline.
+
+why we have to use?
+It is helpful to make webpage more dynamic/interacting and also used for validation purpose.
+It makes user experience smooth and improves business.
+Debugging is easy because it is seen through browser console.
+It is present on everywhere:
+-Front end (Browsers)
+-Back end (Node, Deno)
+-Android/iOS (React Native, NativeScript, etc.)
+-Desktop (Electron)
+-Hybrid (Ionic)
+Now it is also used in ML.eg: tensorflow.js
